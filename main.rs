@@ -1,4 +1,3 @@
-extern crate chrono;
 use std::fs::OpenOptions;
 use std::io::prelude::*;
 use chrono::prelude::{DateTime, Local};
